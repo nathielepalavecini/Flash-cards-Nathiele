@@ -1,23 +1,23 @@
 criaCartao(
-    'Categoria',
-    'Pergunta?',
-    'Resposta'
+    'Literatura',
+    'Quem escreveu Romeu e Julieta?',
+    'William Shakespeare'
 )
 
 criaCartao(
-    'Categoria',
-    'Pergunta?',
-    'Resposta'
+    'Literatura',
+    'Em que país se passa a história de Orgulho e Preconceito?',
+    'Inglaterra'
 )
 
 criaCartao(
-    'Categoria',
-    'Pergunta?',
-    'Resposta'
+    'Literatura',
+    'Qual autor brasileiro escreveu Dom Camurro?',
+    'machado de Assis'
 )
 
 criaCartao(
-    'Categoria',
-    'Pergunta?',
-    'Resposta'
+    'Literatura',
+    'Quem criou o persinagem Harry Potter?',
+    'J.K. Rowling'
 )
