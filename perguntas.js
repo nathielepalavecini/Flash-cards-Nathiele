@@ -18,6 +18,6 @@ criaCartao(
 
 criaCartao(
     'Literatura',
-    'Quem criou o persinagem Harry Potter?',
+    'Quem criou o personagem Harry Potter?',
     'J.K. Rowling'
 )
