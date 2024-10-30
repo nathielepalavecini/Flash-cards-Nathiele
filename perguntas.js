@@ -13,7 +13,7 @@ criaCartao(
 criaCartao(
     'Literatura',
     'Qual autor brasileiro escreveu Dom Camurro?',
-    'machado de Assis'
+    'Machado de Assis'
 )
 
 criaCartao(
