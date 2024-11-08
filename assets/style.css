@@ -101,7 +101,7 @@ footer p {
 @media (max-width: 560px) {
 
     body {
-        background: url(img/bg-mobile.webp);
+        background: url(img/img/bg-mobile.webp);
     }
 
     .cartao {
